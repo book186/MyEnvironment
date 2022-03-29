@@ -1,6 +1,6 @@
 # PARK TAE YOUNG 😮
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farammyy&count_bg=%23F78787&title_bg=%23FFC4C4&icon=&icon_color=%23EFE0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbook186%2Fhit-counter&count_bg=%23596054&title_bg=%234DAA67&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🤓 SKILLS
 ### Platforms & Languages
