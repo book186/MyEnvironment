@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farammyy&count_bg=%23F78787&title_bg=%23FFC4C4&icon=&icon_color=%23EFE0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![taae0's GitHub stats](https://github-readme-stats.vercel.app/api?username=arammyy&show_icons=true&theme=dracula)
+![taae0's GitHub stats](https://github-readme-stats.vercel.app/api?username=taae0&show_icons=true&theme=dracula)
 
 ## 🤓 SKILLS
 ### Platforms & Languages
